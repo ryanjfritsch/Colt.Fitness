@@ -1,0 +1,18 @@
+{
+  "name": "colt.fitness",
+  "version": "1.0.0",
+  "description": "Website for Colton Ranson's online personal training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ryan Fritsch",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.1",
+    "request": "^2.83.0"
+  }
+}
